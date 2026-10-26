@@ -12,7 +12,7 @@
 ## 🔐 Ce que je fais
 
 - **Sécurité applicative** : authentification, RBAC, en-têtes de sécurité HTTP, chiffrement des données hors ligne (Android)
-- **IAM** : SSO avec Keycloak (OpenID Connect / SAML)
+- **IAM** : SSO avec Keycloak (OpenID Connect, RBAC, MFA TOTP), déployé sur AWS avec audit ELK
 - **Réseaux & infrastructure** : préparation du CCNA, labs sur Proxmox VE (OPNsense, DHCP, DNS bind9, NAT, pare-feu)
 - **Offensif** : labs de pentest (Kali, DHCP/DNS spoofing), TryHackMe
 - **Développement** : Next.js, React, TypeScript, Prisma, C, Java, Python
@@ -27,7 +27,7 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| [keycloak-iam-sso](https://github.com/Tienou4/keycloak-iam-sso) | Mise en place d'un SSO / IAM avec Keycloak | Keycloak, OIDC |
+| [keycloak-iam-sso](https://github.com/Tienou4/keycloak-iam-sso) | Système IAM/SSO : RBAC, MFA, HTTPS, audit Kibana | Keycloak, Docker, AWS, ELK |
 | [cybersecurity-labs](https://github.com/Tienou4/cybersecurity-labs) | Labs réseau & pentest sur Proxmox, write-ups TryHackMe | Proxmox, OPNsense, Kali |
 | [ccna-labs](https://github.com/Tienou4/ccna-labs) | Labs de préparation au CCNA | Cisco Packet Tracer |
 | [Smart-inventory-management](https://github.com/Tienou4/Smart-inventory-management) | Gestion de stock avec authentification et rôles | Next.js, Prisma, NextAuth |
@@ -43,6 +43,6 @@
 
 ## 🛠️ Outils
 
-`Linux` `Proxmox VE` `OPNsense` `Wireshark` `Kali` `Keycloak` `Docker` `Git` `Next.js` `React` `TypeScript` `Prisma` `C` `Java` `Python`
+`Linux` `Proxmox VE` `OPNsense` `Wireshark` `Kali` `Keycloak` `Docker` `AWS EC2` `ELK` `Nginx` `Git` `Next.js` `React` `TypeScript` `Prisma` `C` `Java` `Python`
 
 🇫🇷 Français (natif) · 🇬🇧 Anglais (opérationnel)
