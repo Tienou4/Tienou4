@@ -33,6 +33,8 @@
 | [ccna-labs](https://github.com/Tienou4/ccna-labs) | Labs de préparation au CCNA | Cisco Packet Tracer |
 | [Smart-inventory-management](https://github.com/Tienou4/Smart-inventory-management) | Gestion de stock avec authentification et rôles | Next.js, Prisma, NextAuth |
 | [Gestion-de-stage-mairie](https://github.com/Tienou4/Gestion-de-stage-mairie) | Gestion des stages pour une mairie | React, TypeScript, Zod |
+| [jaguarJob](https://github.com/Tienou4/jaguarJob) | Plateforme de recherche d'emploi (job board) | React, Vite, Tailwind CSS, Clerk |
+| [site_culturel](https://github.com/Tienou4/site_culturel) | Site culturel avec blog | React, TypeScript, Tailwind CSS |
 | [c-data-structures](https://github.com/Tienou4/c-data-structures) | Structures de données en C | C, Makefile |
 | [Mes-Projets](https://github.com/INSA-Centre-Val-de-Loire-STI-3A/Mes-Projets) (organisation INSA CVL STI 3A) | Projets de cours INSA CVL (C, Java, Python) | C, Java, Python |
 
