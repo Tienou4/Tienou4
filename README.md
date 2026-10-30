@@ -34,7 +34,7 @@
 | [Smart-inventory-management](https://github.com/Tienou4/Smart-inventory-management) | Gestion de stock avec authentification et rôles | Next.js, Prisma, NextAuth |
 | [Gestion-de-stage-mairie](https://github.com/Tienou4/Gestion-de-stage-mairie) | Gestion des stages pour une mairie | React, TypeScript, Zod |
 | [c-data-structures](https://github.com/Tienou4/c-data-structures) | Structures de données en C | C, Makefile |
-| [insa-cvl-sti-coursework](https://github.com/Tienou4/insa-cvl-sti-coursework) | Projets de cours INSA CVL (C, Java, Python) | C, Java, Python |
+| [Mes-Projets](https://github.com/INSA-Centre-Val-de-Loire-STI-3A/Mes-Projets) (organisation INSA CVL STI 3A) | Projets de cours INSA CVL (C, Java, Python) | C, Java, Python |
 
 ## 🎓 Formation
 
